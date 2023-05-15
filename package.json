@@ -60,6 +60,7 @@
       "pino": "^7.0.5",
       "request": "^2.88.2",
       "scrape-primbon": "^1.1.0",
+      "@shineiichijo/marika": "^2.0.3",
       "translate-google-api": "^1.0.4",
       "imgbb-uploader": "^1.4.0",
       "scraper-x0": "^1.0.6",
